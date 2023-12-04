@@ -1,0 +1,233 @@
+﻿Type,#,Name,Shipbuilder,Hull #,Light Displacement Tons,FY,Contract Award,Keel Laid,Keel Laid Fixed?,Launched,Delivered,Disposition
+CB,1,Alaska,New York Shipbuilding,435,"27,000",,9-Sep-40,16-Dec-41,12/16/41,8/15/43,6/17/44,Scrapped 1961
+CA,35,Indianapolis,New York Shipbuilding,399,"9,950",,13-Feb-29,31-Mar-30,3/31/30,11/7/31,11/14/32,Sunk by Japanese Navy off the Philippines 1945
+CA,34,Astoria,Puget Sound NSY,,"9,950",,13-Feb-29,1-Sep-30,9/1/30,12/16/33,6/1/34,Sunk by Japanese gunfire off Savo Island 1942
+CB,2,Guam,New York Shipbuilding,436,"27,000",,9-Sep-40,2-Feb-42,2/2/42,11/21/43,9/17/44,Scrapped 1961
+CA,36,Minneapolis,Philadelphia NSY,,"9,950",,13-Feb-29,27-Jun-31,6/27/31,9/6/33,6/20/34,Scrapped 1959
+CA,37,Tuscaloosa,New York Shipbuilding,407,"9,975",,13-Feb-29,3-Sep-31,9/3/31,11/13/33,8/17/34,Scrapped 1959
+CA,38,San Francisco,Mare Island NSY,,"9,950",,13-Feb-29,9-Sep-31,9/9/31,3/9/33,4/23/34,Scrapped 1959
+CV,4,Ranger,Newport News Shipbuilding,353,"14,500",,1-Nov-30,26-Sep-31,9/26/31,2/25/33,6/4/34,Scrapped 1947
+SS,171,Cuttlefish,Electric Boat,17,"1,650",1931,,7-Oct-31,10/7/31,11/21/33,6/8/34,Scrapped 1947
+DD,348,Farragut,Fore River Sbldg.,1448,"1,365",1932,,20-Sep-32,9/20/32,3/15/34,6/18/34,Scrapped 1947
+DD,349,Dewey,Bath Iron Works,154,"1,345",1932,,16-Dec-32,12/16/32,7/28/34,10/3/34,Scrapped 1946
+DD,352,Worden,Puget Sound NSY,,"1,410",1931,,29-Dec-32,12/29/32,10/27/34,3/1/35,Wrecked 1944
+DD,350,Hull,New York NSY,,"1,395",1931,,7-Mar-33,3/7/33,1/21/34,5/24/35,Sank in typhoon east of Luzon 1944
+DD,351,MacDonough,Boston NSY,,"1,395",1931,,15-May-33,5/15/33,8/22/34,3/15/35,Scrapped 1948
+DD,355,Aylwin,Philadelphia NSY,,"1,375",1931,,23-Sep-33,9/23/33,7/10/34,5/1/35,Scrapped 1948
+SS,174,Shark,Electric Boat,19,"1,958",1934,,24-Oct-33,10/24/33,5/21/35,1/25/36,Lost 1942
+SS,172,Porpoise,Portsmouth NSY,,"1,934",1933,,27-Oct-33,10/27/33,6/20/35,1/15/36,Scrapped 1958
+CA,39,Quincy,Bethlehem Quincy,1450,"9,950",,13-Feb-29,15-Nov-33,11/15/33,6/19/35,6/9/36,Sunk by Japanese ships off Savo Island 1942
+DD,354,Monaghan,Boston NSY,,"1,395",1931,,21-Nov-33,11/21/33,1/9/35,4/19/35,Sank in typhoon east of Luzon 1944
+DD,356,Porter,New York Shipbuilding,408,"1,850",1934,,18-Dec-33,12/18/33,12/12/35,8/26/36,Sunk by Japanese Navy off the Santa Cruz Islands 1942
+DD,357,Selfridge,New York Shipbuilding,409,"1,850",1934,,18-Dec-33,12/18/33,4/18/36,11/25/36,Scrapped 1946
+DD,358,McDougal,New York Shipbuilding,410,"1,850",1934,,18-Dec-33,12/18/33,7/17/36,12/23/36,Scrapped 1949
+DD,359,Winslow,New York Shipbuilding,411,"1,850",1934,,18-Dec-33,12/18/33,9/21/36,2/17/37,Scrapped 1959
+SS,173,Pike,Portsmouth NSY,,"1,934",1933,,20-Dec-33,12/20/33,9/12/35,4/17/36,Scrapped 1958
+SS,175,Tarpon,Electric Boat,20,"1,958",1934,,22-Dec-33,12/22/33,9/4/35,3/12/36,Sunk 1957
+CA,44,Vincennes,Bethlehem Quincy,1449,"9,950",,13-Feb-29,2-Jan-34,1/2/34,5/21/36,2/24/37,Sunk by Japanese ships off Savo Island 1942
+DD,360,Phelps,Fore River Sbldg.,1451,"1,805",1934,,2-Jan-34,1/2/34,7/18/35,2/26/36,Scrapped 1947
+DD,361,Clark,Fore River Sbldg.,1452,"1,805",1934,,2-Jan-34,1/2/34,10/15/35,5/20/36,Scrapped 1946
+DD,362,Moffett,Fore River Sbldg.,1453,"1,825",1934,,2-Jan-34,1/2/34,12/11/35,8/28/36,Scrapped 1947
+DD,353,Dale,New York NSY,,"1,395",1931,,10-Feb-34,2/10/34,1/23/35,7/19/35,Scrapped 1943
+DD,366,Drayton,Bath Iron Works,159,"1,480",1934,,20-Mar-34,3/20/34,3/26/36,9/1/36,Scrapped 1946
+DD,367,Lamson,Bath Iron Works,160,"1,480",1934,,20-Mar-34,3/20/34,6/17/36,10/21/36,Scuttled 1946
+DD,363,Balch,Fore River Sbldg.,1454,"1,825",1934,,16-May-34,5/16/34,3/24/36,10/20/36,Scrapped 1946
+CV,5,Yorktown,Newport News Shipbuilding,359,"19,800",,3-Aug-33,21-May-34,5/21/34,4/4/36,9/30/37,Sunk at Midway 1942
+CB,3,Hawaii,New York Shipbuilding,437,"27,000",,9-Sep-40,20-Dec-43,12/20/43,3/11/45,,"Never completed, scrapped 1959"
+DD,368,Flusser,Federal Shipbuilding,127,"1,488",1933,,4-Jun-34,6/4/34,9/28/35,12/1/36,Scrapped 1948
+DD,364,Mahan,Staten Island Sbldg.,819,"1,450",1933,,12-Jun-34,6/12/34,10/15/35,11/16/36,Kamikazied off Leyte and lost 1944
+DD,369,Reid,Federal Shipbuilding,128,"1,488",1933,,25-Jun-34,6/25/34,1/11/36,1/4/37,Lost 1944
+DD,365,Cummings,Staten Island Sbldg.,820,"1,465",1933,,26-Jun-34,6/26/34,12/11/35,1/26/37,Sold 1947
+CV,6,Enterprise,Newport News Shipbuilding,360,"19,800",,3-Aug-33,16-Jul-34,7/16/34,10/3/36,5/12/38,Scrapped 1958
+DD,374,Tucker,Norfolk NSY,,"1,500",1933,,15-Aug-34,8/15/34,2/26/36,3/30/37,Sunk by mine off Espiritu Santu 1942
+DD,375,Downes,Norfolk NSY,,"1,500",1933,,15-Aug-34,8/15/34,4/22/36,3/26/37,Scrapped 1948
+DD,376,Cushing,Puget Sound NSY,,"1,465",1933,,15-Aug-34,8/15/34,12/31/35,12/10/36,Sunk by Japanese gunfire off Guadalcanal 1942
+DD,377,Perkins,Puget Sound NSY,,"1,465",1933,,15-Aug-34,8/15/34,12/31/35,12/10/36,Wrecked 1943
+DD,370,Case,Boston NSY,,"1,500",1933,,19-Sep-34,9/19/34,9/14/35,9/15/36,Scrapped 1948
+DD,371,Conyngham,Boston NSY,,"1,500",1933,,19-Sep-34,9/19/34,9/14/35,11/4/36,Sunk as target 1948
+DD,372,Cassin,Philadelphia NSY,,"1,500",1933,,1-Oct-34,10/1/34,10/28/35,4/6/37,Scrapped 1948
+DD,373,Shaw,Philadelphia NSY,,"1,500",1933,,1-Oct-34,10/1/34,10/28/35,4/20/37,Scrapped 1948
+DD,378,Smith,Mare Island NSY,,"1,480",1933,,27-Oct-34,10/27/34,2/20/36,12/31/36,Scrapped 1948
+DD,379,Preston,Mare Island NSY,,"1,480",1933,,27-Oct-34,10/27/34,4/22/36,1/23/37,Sunk by Japanese gunfire off Guadalcanal 1942
+CL,32,New Orleans,New York NSY,,"9,950",,13-Feb-29,14-Mar-31,3/14/31,4/12/33,4/18/34,"CA 32 1931, scrapped 1959"
+SS,176,Perch,Electric Boat,23,"1,997",1935,,25-Feb-35,2/25/35,5/9/36,11/19/36,Scuttled 1942
+CL,33,Portland,Bethlehem Quincy,1430,"9,950",,13-Feb-29,17-Feb-30,2/17/30,5/21/32,2/23/33,"CA 33 1931, scrapped 1959"
+SS,177,Pickerel,Electric Boat,24,"1,997",1935,,25-Mar-35,3/25/35,7/7/36,1/26/37,Lost 1943
+DD,384,Dunlap,Staten Island Sbldg.,839,"1,490",1934,,10-Apr-35,4/10/35,4/18/36,6/12/37,Scrapped 1947
+DD,385,Fanning,Staten Island Sbldg.,840,"1,490",1934,,10-Apr-35,4/10/35,9/18/36,10/8/37,Scrapped 1948
+CL,40,Brooklyn,New York NSY,,"9,700",,13-Feb-29,12-Mar-35,3/12/35,11/30/36,7/18/38,"To Chile 1951 as O'Higgins (C 02), sank while under tow 1992"
+CL,41,Philadelphia,Philadelphia NSY,,"9,700",,13-Feb-29,28-May-35,5/28/35,11/17/36,8/27/38,"To Brazil 1951 as Barroso (C 11), scrapped 1974"
+DD,380,Gridley,Fore River Sbldg.,1458,"1,500",1935,,3-Jun-35,6/3/35,12/1/36,6/24/37,Scrapped 1947
+DD,382,Craven,Fore River Sbldg.,1459,"1,500",1935,,3-Jun-35,6/3/35,2/25/37,9/2/37,Scrapped 1947
+SS,178,Permit,Electric Boat,25,"1,997",1935,,6-Jun-35,6/6/35,10/5/36,3/17/37,Scrapped 1958
+DD,381,Somers,Federal Shipbuilding,134,"2,047",1934,,27-Jun-35,6/27/35,3/13/37,6/30/38,Scrapped 1947
+SS,179,Plunger,Portsmouth NSY,,"1,997",1934,,17-Jul-35,7/17/35,7/8/36,3/31/37,Scrapped 1958
+DD,392,Patterson,Puget Sound NSY,,"1,500",1934,,23-Jul-35,7/23/35,5/6/37,10/11/38,Scrapped 1948
+DD,386,Bagley,Norfolk NSY,,"1,500",1934,,31-Jul-35,7/31/35,9/3/36,8/10/38,Scrapped 1948
+DD,393,Jarvis,Puget Sound NSY,,"1,500",1934,,21-Aug-35,8/21/35,5/6/37,10/25/38,Sunk by Japanese gunfire off Guadalcanal 1942
+DD,387,Blue,Norfolk NSY,,"1,500",1934,,25-Sep-35,9/25/35,5/27/37,8/10/38,Sunk by Japanese gunfire off Guadalcanal 1942
+DD,388,Helm,Norfolk NSY,,"1,500",1934,,25-Sep-35,9/25/35,5/27/37,9/16/38,Scrapped 1948
+SS,180,Pollack,Portsmouth NSY,,"1,997",1934,,1-Oct-35,10/1/35,9/15/36,4/28/37,Scrapped 1948
+DD,383,Warrington,Federal Shipbuilding,135,"2,047",1934,,10-Oct-35,10/10/35,5/15/37,8/12/38,Sank during hurricane off Florida 1944
+CA,45,Wichita,Philadelphia NSY,,"10,000",,13-Feb-29,28-Oct-35,10/28/35,11/16/37,2/16/39,Scrapped 1959
+DD,389,Mugford,Boston NSY,,"1,500",1934,,28-Oct-35,10/28/35,10/31/36,8/16/37,Scuttled 1948
+DD,390,Ralph Talbot,Boston NSY,,"1,500",1934,,28-Oct-35,10/28/35,10/31/36,10/14/37,Scuttled 1948
+DD,391,Henley,Mare Island NSY,,"1,500",1934,,28-Oct-35,10/28/35,1/12/37,9/12/38,Sunk by Japanese gunfire off New Guinea 1943
+CL,42,Savannah,New York Shipbuilding,412,"9,475",,13-Feb-29,31-May-34,5/31/34,5/8/37,3/10/38,Scrapped 1960
+SS,181,Pompano,Mare Island NSY,,"1,997",1934,,14-Jan-36,1/14/36,3/11/37,12/4/37,Sunk by mine off Honshu 1943
+DD,400,McCall,Union Iron Works,5358,"1,500",1935,,17-Mar-36,3/17/36,11/20/37,12/19/38,Scrapped 1947
+DD,401,Maury,Union Iron Works,5359,"1,500",1935,,24-Mar-36,3/24/36,2/14/38,1/17/39,Scrapped 1946
+DD,396,Jouett,Bath Iron Works,163,"1,850",1936,,26-Mar-36,3/26/36,9/24/38,1/24/39,Scrapped 1946
+CV,7,Wasp,Bethlehem Quincy,1460,"14,700",,19-Sep-35,1-Apr-36,4/1/36,4/4/39,4/25/40,Sunk off Guadalcanal 1942
+DD,394,Samson,Bath Iron Works,161,"1,850",1936,,8-Apr-36,4/8/36,4/16/38,8/19/38,Scrapped 1946
+SS,182,Salmon,Electric Boat,26,"2,198",1936,,15-Apr-36,4/15/36,6/12/37,3/15/38,Scrapped 1946
+SS,183,Seal,Electric Boat,27,"2,198",1936,,25-May-36,5/25/36,4/25/37,4/30/38,Scrapped 1957
+SS,184,Skipjack,Electric Boat,28,"2,198",1936,,22-Jul-36,7/22/36,10/23/37,6/30/38,Sunk as target 1948
+SS,185,Snapper,Portsmouth NSY,,"2,198",1935,,23-Jul-36,7/23/36,8/24/37,3/1/38,Scrapped 1948
+DD,395,Davis,Bath Iron Works,162,"1,850",1936,,28-Jul-36,7/28/36,7/30/38,11/9/38,Scrapped 1947
+DD,397,Benham,Federal Shipbuilding,138,"1,657",1935,,1-Sep-36,9/1/36,4/16/38,4/18/39,Lost 1942
+SS,186,Stingray,Portsmouth NSY,,"2,198",1935,,1-Oct-36,10/1/36,10/6/37,6/30/38,Scrapped 1948
+SS,187,Sturgeon,Mare Island NSY,,"2,198",1935,,27-Oct-36,10/27/36,3/15/38,9/2/38,Scrapped 1948
+DD,407,Sterett,Charleston NSY,,"1,500",1935,,2-Dec-36,12/2/36,10/27/38,8/15/39,Scrapped 1948
+DD,398,Ellet,Federal Shipbuilding,139,"1,657",1935,,3-Dec-36,12/3/36,6/11/38,4/18/39,Scrapped 1947
+CL,43,Nashville,New York Shipbuilding,413,"9,475",,13-Feb-29,24-Jan-35,1/24/35,10/2/37,6/6/38,"To Chile 1951 as Capitan Prat (C 3), scrapped 1985"
+CL,46,Phoenix,New York Shipbuilding,416,"9,575",,,15-Apr-35,4/15/35,3/19/38,10/3/38,"To Argentina 1951 as 17 de Octobre (C 4), later Gen. Belgrano, sunk 1982"
+DD,408,Wilson,Puget Sound NSY,,"1,500",1935,,22-Mar-37,3/22/37,4/12/39,7/5/39,Scuttled 1948
+DD,399,Lang,Federal Shipbuilding,140,"1,657",1935,,5-Apr-37,4/5/37,8/28/38,5/26/39,Scrapped 1947
+DD,402,Mayrant,Boston NSY,,"1,500",1935,,15-Apr-37,4/15/37,5/14/38,9/19/39,Scuttled 1948
+DD,403,Trippe,Boston NSY,,"1,500",1935,,15-Apr-37,4/15/37,5/14/38,11/1/39,Scuttled 1948
+SS,188,Sargo,Electric Boat,29,"2,350",1937,,12-May-37,5/12/37,6/6/38,2/7/39,Scrapped 1947
+DD,405,Rowan,Norfolk NSY,,"1,500",1935,,25-Jun-37,6/25/37,5/5/38,9/23/39,Sunk by German MTBs off Salerno 1943
+DD,406,Stack,Norfolk NSY,,"1,500",1935,,25-Jun-37,6/25/37,5/5/38,11/20/39,Scuttled 1948
+DD,409,Sims,Bath Iron Works,170,"1,570",1937,,15-Jul-37,7/15/37,4/8/39,8/1/39,Sunk by aircraft in the Coral Sea  1942
+SS,191,Sculpin,Portsmouth NSY,,"2,350",1936,,7-Sep-37,9/7/37,7/27/38,1/16/39,Damaged and scuttled off Truk 1943
+SS,190,Spearfish,Electric Boat,31,"2,350",1937,,9-Sep-37,9/9/37,10/29/38,7/17/39,Scrapped 1947
+DD,410,Hughes,Bath Iron Works,171,"1,570",1937,,15-Sep-37,9/15/37,6/17/39,9/21/39,Sunk as target 1948
+DD,404,Rhind,Philadelphia NSY,,"1,500",1935,,22-Sep-37,9/22/37,7/28/38,11/16/39,Scuttled 1948
+SS,192,Squalus,Portsmouth NSY,,"2,350",1936,,18-Oct-37,10/18/37,9/14/38,3/1/39,Scrapped 1948
+BB,55,North Carolina,New York NSY,,"46,770",1937,24-Jun-37,27-Oct-37,10/27/37,6/13/40,7/31/41,To Wilmington NC as memorial 1961
+SS,193,Swordfish,Mare Island NSY,,"2,350",1936,,27-Oct-37,10/27/37,1/4/39,7/22/39,Sunk by Japanese gunfire in the Ryukyu Islands 1945
+DD,411,Anderson,Federal Shipbuilding,147,"1,764",1936,,15-Nov-37,11/15/37,2/4/39,5/19/39,Sunk
+DD,413,Mustin,Newport News Shipbuilding,363,"1,570",1937,,20-Dec-37,12/20/37,12/8/38,9/15/39,Scuttled 1948
+DD,414,Russell,Newport News Shipbuilding,364,"1,570",1937,,20-Dec-37,12/20/37,12/8/38,11/3/39,Scrapped 1948
+DD,428,Charles F. Hughes,Puget Sound NSY,,"2,103",1938,,3-Jan-38,1/3/38,5/16/40,9/5/40,Sunk as target 1969
+DD,412,Hammann,Federal Shipbuilding,148,"1,764",1936,,17-Jan-38,1/17/38,2/4/39,8/11/39,Lost 1942
+DD,420,Buck,Philadelphia NSY,,"2,313",1937,,6-Apr-38,4/6/38,5/22/39,5/15/40,Sunk by u-boat off Saler
+SS,194,Seadragon,Electric Boat,33,"2,350",1937,,18-Apr-38,4/18/38,4/21/39,10/23/39,Scrapped 1948
+DD,418,Roe,Charleston NSY,,"2,313",1937,,23-Apr-38,4/23/38,6/21/39,1/5/40,Scrapped 1947
+DD,421,Benson,Bethlehem Quincy,1470,"2,103",1938,,16-May-38,5/16/38,11/15/39,7/25/40,Decommissioned 1946
+DD,422,Mayo,Bethlehem Quincy,1471,"2,103",1938,,16-May-38,5/16/38,3/26/40,9/18/40,Scrapped 1972
+DD,423,Gleaves,Bath Iron Works,177,"2,395",1938,,16-May-38,5/16/38,12/9/39,6/14/40,Scrapped 1972
+DD,427,Hilary P. Jones,Charleston NSY,,"2,103",1938,,16-May-38,5/16/38,12/14/39,9/7/40,"To Taiwan 1954 as Han Yan (DD 15), scrapped 1974"
+DD,415,O'Brien,Boston NSY,,"2,313",1937,,31-May-38,5/31/38,10/20/39,3/2/40,Torpedoed and sunk in Pacific 1942
+DD,416,Walke,Boston NSY,,"2,313",1937,,31-May-38,5/31/38,10/20/39,4/27/40,Sunk by surface ships off Guadalcanal 1942
+DD,417,Morris,Norfolk NSY,,"2,313",1937,,7-Jun-38,6/7/38,6/1/39,3/5/40,Scrapped 1947
+DD,419,Wainwright,Norfolk NSY,,"2,313",1937,,7-Jun-38,6/7/38,6/1/39,4/15/40,Sunk as target 1948
+BB,56,Washington,Philadelphia NSY,,"45,370",1937,24-Jun-37,14-Jun-38,6/14/38,6/1/40,7/31/41,Scrapped 1961
+SS,195,Sealion,Electric Boat,34,"2,350",1937,,20-Jun-38,6/20/38,5/25/39,11/27/39,Scuttled at Cavite 1941
+DD,424,Niblack,Bath Iron Works,178,"2,395",1938,,8-Aug-38,8/8/38,5/18/40,8/1/40,Scrapped 1973
+SS,196,Searaven,Portsmouth NSY,,"2,350",1937,,9-Aug-38,8/9/38,6/21/39,10/2/39,Sunk as target 1948
+DD,425,Madison,Boston NSY,,"2,103",1938,,19-Sep-38,9/19/38,10/20/39,8/6/40,Sunk as target 1969
+DD,426,Lansdale,Boston NSY,,"2,103",1938,,19-Sep-38,9/19/38,10/30/39,9/17/40,Sunk by aircraft off Algeria 1944
+SS,197,Seawolf,Portsmouth NSY,,"2,350",1937,,27-Sep-38,9/27/38,8/15/39,12/1/39,Sunk by friendly fire off Morotai 1944
+SS,198,Tambor,Electric Boat,35,,1938,,16-Jan-39,1/16/39,12/20/39,6/3/40,Scrapped 1960
+DD,431,Plunket,Federal Shipbuilding,160,"2,395",1938,,1-Mar-39,3/1/39,3/9/40,7/17/40,"To Taiwan as Nan Yang 1959, struck 1975"
+DD,432,Kearny,Federal Shipbuilding,161,"2,395",1938,,1-Mar-39,3/1/39,3/9/40,9/13/40,Scrapped 1972
+SS,199,Tautog,Electric Boat,36,,1938,,1-Mar-39,3/1/39,1/27/40,7/3/40,Scrapped 1960
+DD,429,Livermore,Bath Iron Works,180,"2,395",1938,,6-Mar-39,3/6/39,8/3/40,10/7/40,Scrapped 1961
+DD,430,Eberle,Bath Iron Works,181,"2,395",1938,,12-Apr-39,4/12/39,9/14/40,12/4/40,"To Greece as Niki (D 65) 1951, struck 1972"
+SS,200,Thresher,Electric Boat,37,,1938,,27-Apr-39,4/27/39,3/27/40,8/21/40,Scrapped 1948
+DD,433,Gwin,Boston NSY,,"2,395",1938,,1-Jun-39,6/1/39,5/25/40,1/15/41,Sunk by Japanese gunfire off Kolombangara 1943
+DD,434,Meredith,Boston NSY,,"2,395",1938,,1-Jun-39,6/1/39,4/24/40,3/1/41,Sunk by Japanese aircraft in the Solomon Islands 1942
+SS,204,Mackerel,Electric Boat,38,,1939,,6-Jun-39,6/6/39,9/28/40,3/31/41,Scrapped 1947
+SS,189,Saury,Electric Boat,30,"2,350",1937,,28-Jun-39,6/28/39,8/20/38,4/3/39,Scrapped 1947
+BB,57,South Dakota,New York Shipbuilding,421,"46,200",1939,15-Dec-38,5-Jul-39,7/5/39,6/7/41,3/20/42,Scrapped 1962
+SS,201,Triton,Portsmouth NSY,,,1938,,5-Jul-39,7/5/39,3/25/40,8/15/40,Sunk by Japanese destroyers 1943
+DD,436,Monssen,Puget Sound NSY,,"2,395",1938,,12-Jul-39,7/12/39,5/16/40,3/14/41,Sunk by Japanese gunfire off Guadalcanal 1942
+DD,435,Grayson,Charleston NSY,,"2,395",1938,,17-Jul-39,7/17/39,8/7/40,2/14/41,Scrapped 1972
+SS,203,Tuna,Mare Island NSY,,,1938,,19-Jul-39,7/19/39,10/2/40,1/2/41,Sunk as target 1948
+BB,58,Indiana,Newport News Shipbuilding,378,"44,374",1939,15-Dec-38,20-Nov-39,11/20/39,11/21/41,4/30/42,Scrapped 1964
+SS,202,Trout,Portsmouth NSY,,,1938,,28-Aug-39,8/28/39,5/21/40,11/15/40,Presumed sunk 1944
+CV,8,Hornet,Newport News Shipbuilding,385,"19,900",,30-Mar-39,29-Sep-39,9/29/39,12/14/40,10/20/41,"Damaged at Santa Cruz, scuttled by Japanese 1942"
+DD,437,Woolsey,Bath Iron Works,182,"2,395",1939,,9-Oct-39,10/9/39,2/12/41,5/7/41,Scrapped 1974
+DD,441,Wilkes,Boston NSY,,"2,395",1939,,1-Nov-39,11/1/39,5/31/40,4/22/41,Scrapped 1972
+DD,442,Nicholson,Boston NSY,,"2,395",1939,,1-Nov-39,11/1/39,5/31/40,6/3/41,"To Italy as Aviere (D 554) 1951, sunk as target 1977"
+DD,443,Swanson,Charleston NSY,,"2,395",1939,,15-Nov-39,11/15/39,11/2/40,5/29/41,Scrapped 1972
+DD,444,Ingraham,Charleston NSY,,"2,395",1939,,15-Nov-39,11/15/39,2/15/41,7/17/41,Sunk in collision off Nova Scotia 1942
+BB,59,Massachusetts,Bethlehem Quincy,1478,"45,216",1939,15-Dec-38,20-Jul-39,7/20/39,9/23/41,5/12/42,To Fall River MA as memorial 1962
+SS,211,Gudgeon,Mare Island NSY,,,1939,,22-Nov-39,11/22/39,1/25/41,4/21/41,Presumed sunk 1944
+SS,209,Grayling,Portsmouth NSY,,,1939,,15-Dec-39,12/15/39,9/4/40,3/1/41,Sunk in the Philippines 1943
+DD,438,Ludlow,Bath Iron Works,183,"2,395",1939,,18-Dec-39,12/18/39,11/11/40,3/5/41,"To Greece as Doxa (D 20) 1951, scrapped 1972"
+SS,206,Gar,Electric Boat,39,,1939,,27-Dec-39,12/27/39,11/7/40,4/14/41,Scrapped 1960
+BB,60,Alabama,Norfolk NSY,,"44,374",1939,1-Apr-39,2-Jan-40,1/2/40,2/16/42,11/10/42,To Mobile AL as memorial 1964
+SS,207,Grampus,Electric Boat,40,,1939,,14-Feb-40,2/14/40,12/23/40,5/23/41,Sunk by Japanese destroyers in Blackett Strait 1943
+DD,439,Edison,Federal Shipbuilding,170,"2,395",1939,,18-Mar-40,3/18/40,11/23/40,1/31/41,Scrapped 1966
+DD,440,Ericsson,Federal Shipbuilding,171,"2,395",1939,,18-Mar-40,3/18/40,11/23/40,3/13/41,Sunk as target 1970
+CL,47,Boise,Newport News Shipbuilding,361,"9,700",,,,,12/3/36,8/12/38,"To Argentina 1951 as 9 de Julio (C ?), scrapped 1981"
+SS,210,Grenadier,Portsmouth NSY,,,1939,,1-Apr-40,4/1/40,11/29/40,5/1/41,Bombed in the Indian Ocean and scuttled 1943
+SS,208,Grayback,Electric Boat,41,,1939,,3-Apr-40,4/3/40,1/31/41,6/30/41,Sunk by Japanese aircraft and gunfire in the East China Sea 1944
+CL,48,Honolulu,New York NSY,,"9,650",,,9-Dec-35,12/9/35,8/26/37,9/7/38,Scrapped 1959
+CL,49,St. Louis,Newport News Shipbuilding,362,"10,000",,,10-Dec-36,12/10/36,4/15/38,5/19/39,"To Brazil 1951 as Tamandere (C 12), foundered 1980 off South Africa"
+SS,205,Marlin,Portsmouth NSY,,,1939,,23-May-40,5/23/40,1/29/41,8/1/41,Scrapped 1946
+CL,50,Helena,New York NSY,,"10,000",,,9-Dec-36,12/9/36,8/27/39,9/18/39,Sunk by Japanese gunfire in the Solomon Islands 1943
+BB,61,Iowa,New York NSY,,"57,271",1940,1-Jul-39,27-Jun-40,6/27/40,8/27/42,3/28/43,To San Pedro CA as memorial 2012
+CL,51,Atlanta,Federal Shipbuilding,168,"6,000",,25-Apr-39,22-Apr-40,4/22/40,9/6/41,12/24/41,Sunk by gunfire off Guadalcanal 1942
+CL,52,Juneau,Federal Shipbuilding,169,"6,000",,25-Apr-39,27-May-40,5/27/40,10/25/41,2/14/42,Torpedoed and lost off Guadalcanal 1942
+BB,62,New Jersey,Philadelphia NSY,,"57,271",1940,1-Jul-39,16-Sep-40,9/16/40,12/7/42,6/30/43,To Camden NJ as memorial 1999
+CL,53,San Diego,Bethlehem Quincy,1479,"6,000",,25-Apr-39,27-Mar-40,3/27/40,7/26/41,1/10/42,Scrapped 1960
+CL,54,San Juan,Bethlehem Quincy,1480,"6,000",,25-Apr-39,15-May-40,5/15/40,9/6/41,2/28/42,Scrapped 1961
+CL,55,Cleveland,New York Shipbuilding,423,"10,000",,23-Mar-40,1-Jul-40,7/1/40,11/1/41,6/15/42,Scrapped 1960
+CL,56,Columbia,New York Shipbuilding,424,"10,000",,12-Jun-40,19-Aug-40,8/19/40,12/17/41,6/29/42,Scrapped 1960
+CV,9,Essex,Newport News Shipbuilding,392,"27,100",,3-Jul-40,28-Apr-41,4/28/41,7/31/42,12/31/42,Scrapped 1975
+CL,57,Montpelier,New York Shipbuilding,425,"10,000",,23-Mar-40,2-Dec-40,12/2/40,2/12/42,9/9/42,Scrapped 1960
+CA,68,Baltimore,Bethlehem Quincy,1494,"13,600",,1-Jul-40,26-May-41,5/26/41,7/28/42,4/15/43,Scrapped 1972
+CL,58,Denver,New York Shipbuilding,426,"10,000",,12-Jun-40,26-Dec-40,12/26/40,4/4/42,10/15/42,Scrapped 1960
+CL,59,Amsterdam,New York Shipbuilding,427,"10,000",,,1-May-41,5/1/41,8/22/42,1/14/43,"Renamed Independence (CVL 22), sunk as target 1971"
+CA,69,Boston,Bethlehem Quincy,1495,"13,600",,1-Jul-40,30-Jun-41,6/30/41,8/26/42,6/30/43,"Converted to CAG 1 1955, scrapped 1975"
+CL,60,Santa Fe,New York Shipbuilding,428,"10,000",,1-Jul-40,7-Jun-41,6/7/41,6/10/42,11/24/42,Scrapped 1960
+CL,61,Tallahassee,New York Shipbuilding,429,"10,000",,,2-Jun-41,6/2/41,10/18/42,2/25/43,"Renamed Princeton (CVL 23), sunk in Leyte Gulf 1944"
+CV,16,Lexington,Bethlehem Quincy,1508,"27,100",,9-Sep-40,15-Jul-41,7/15/41,9/26/42,2/17/43,Memorial in Corpus Christi TX 1992
+CL,62,Birmingham,Newport News Shipbuilding,390,"10,000",,3-Jul-40,17-Feb-41,2/17/41,3/20/42,1/29/43,Scrapped 1959
+CL,63,Mobile,Newport News Shipbuilding,391,"10,000",,3-Jul-40,14-Apr-41,4/14/41,5/15/42,3/24/43,Scrapped 1960
+CL,64,Vincennes,Bethlehem Quincy,1498,"10,000",,1-Jul-40,7-Mar-42,3/7/42,7/17/43,1/21/44,Sunk as target 1969
+CL,65,Pasadena,Bethlehem Quincy,1499,"10,000",,1-Jul-40,6-Feb-43,2/6/43,12/28/43,6/8/44,Scrapped 1972
+CA,70,Canberra,Bethlehem Quincy,1496,"13,600",,1-Jul-40,3-Sep-41,9/3/41,4/19/43,10/14/43,"Converted to CAG 2 1956, scrapped 1980"
+CL,66,Springfield,Bethlehem Quincy,1500,"10,000",,1-Jul-40,13-Feb-43,2/13/43,3/9/44,9/8/44,"Converted to CLG 7 1960, scrapped 1978"
+CV,17,Bunker Hill,Bethlehem Quincy,1509,"27,100",,9-Sep-40,15-Sep-41,9/15/41,12/7/42,5/24/43,Scrapped 1973
+CA,71,St. Paul/Quincy,Bethlehem Quincy,1497,"13,600",,9-Sep-40,9-Oct-41,10/9/41,6/23/43,12/15/43,Scrapped 1974
+CL,67,Topeka,Bethlehem Quincy,1501,"10,000",,1-Jul-40,21-Apr-43,4/21/43,8/19/44,12/23/44,"Converted to CLG 8 1960, scrapped 1979"
+CV,10,Yorktown,Newport News Shipbuilding,393,"27,100",,3-Jul-40,1-Dec-41,12/1/41,1/21/43,4/15/43,Memorial in Mount Pleasant SC 1973
+CV,11,Intrepid,Newport News Shipbuilding,394,"27,100",,3-Jul-40,1-Dec-41,12/1/41,4/26/43,8/16/43,Memorial in New York NY 1982
+CL,76,New Haven,New York Shipbuilding,431,"13,600",,9-Sep-40,11-Aug-41,8/11/41,12/6/42,3/31/43,"Belleau Wood (CVL 24), to France as Bois Belleau (R 97), scrapped 1960"
+CL,77,Huntington,New York Shipbuilding,432,"13,600",,9-Sep-40,17-Nov-41,11/17/41,1/17/43,5/28/43,"Cowpens (CVL 25), scrapped 1960"
+CL,78,Dayton,New York Shipbuilding,433,"13,600",,9-Sep-40,29-Dec-41,12/29/41,2/28/43,6/17/43,"Monterey (CVL 26), scrapped 1971"
+CL,79,Wilmington,New York Shipbuilding,434,"13,600",,9-Sep-40,16-Aug-42,8/16/42,4/4/43,7/24/43,"Cabot (CVL 28), to Spain 1967 as Dedalo (R 01), scrapped 2003"
+CV,18,Wasp,Bethlehem Quincy,1510,"27,100",,9-Sep-40,18-Mar-42,3/18/42,8/17/43,11/24/43,Scrapped 1973
+CL,80,Biloxi,Newport News Shipbuilding,399,"10,000",,9-Sep-40,9-Jul-41,7/9/41,2/23/43,8/31/43,Scrapped 1962
+CV,12,Hornet,Newport News Shipbuilding,395,"27,100",,3-Jul-40,3-Aug-42,8/3/42,8/30/43,11/29/43,Memorial in Alameda CA 1989
+CL,81,Houston,Newport News Shipbuilding,400,"10,000",,9-Sep-40,4-Aug-41,8/4/41,6/19/43,12/20/43,Scrapped 1960
+CL,82,Providence,Bethlehem Quincy,1502,"10,000",,9-Sep-40,27-Jul-43,7/27/43,12/28/44,5/15/45,"Converted to CLG 6 1959, scrapped 1978"
+CL,83,Manchester,Bethlehem Quincy,1503,"10,000",,9-Sep-40,25-Apr-44,4/25/44,3/5/46,10/29/46,Scrapped 1960
+CL,84,Buffalo,Federal Shipbuilding,,"10,000",,9-Sep-40,,,,,Cancelled 1940
+CV,13,Franklin,Newport News Shipbuilding,396,"27,100",,3-Jul-40,7-Dec-42,12/7/42,10/14/43,1/31/44,Scrapped 1966
+CL,85,Fargo,New York Shipbuilding,443,"10,000",,9-Sep-40,11-Apr-42,4/11/42,5/22/43,8/31/43,"Langley (CVL 27), to France 1951 as Lafayette (R 96), scrapped 1964"
+CL,86,Vicksburg,Newport News Shipbuilding,411,"10,000",,9-Sep-40,26-Oct-42,10/26/42,12/14/43,6/12/44,Scrapped 1964
+CV,19,Hancock,Bethlehem Quincy,1511,"27,100",,9-Sep-40,26-Jan-43,1/26/43,1/24/44,4/15/44,Scrapped 1976
+CV,14,Ticonderoga,Newport News Shipbuilding,397,"27,100",,3-Jul-40,1-Feb-43,2/1/43,2/7/44,5/8/44,Scrapped 1974
+CA,72,Albany/Pittsburgh,Bethlehem Quincy,1504,"13,600",,9-Sep-40,3-Feb-43,2/3/43,2/22/44,10/9/44,Scrapped 1974
+CA,73,Rochester/St. Paul,Bethlehem Quincy,1505,"13,600",,9-Sep-40,3-Feb-43,2/3/43,9/16/44,2/16/45,Scrapped 1980
+CL,87,Duluth,Newport News Shipbuilding,412,"10,000",,9-Sep-40,9-Nov-42,11/9/42,1/13/44,9/18/44,Scrapped 1960
+CL,88,Newark,Federal Shipbuilding,,"10,000",,9-Sep-40,,,,,Cancelled 1940
+CL,89,Miami,Cramp SB,532,"10,000",,29-Oct-40,2-Aug-41,8/2/41,8/12/42,12/28/43,Scrapped 1962
+CL,90,Astoria,Cramp SB,533,"10,000",,29-Oct-40,6-Sep-41,9/6/41,3/6/43,5/17/44,Scrapped 1971
+CV,15,Randolph,Newport News Shipbuilding,398,"27,100",,3-Jul-40,10-May-43,5/10/43,9/29/44,10/9/44,Scrapped 1975
+CA,74,Columbus,Bethlehem Quincy,1506,"13,600",,9-Sep-40,28-Jun-43,6/28/43,11/30/44,6/8/45,"Converted to CG 12 1962, scrapped 1976"
+CL,91,Oklahoma City,Cramp SB,534,"10,000",,29-Oct-40,8-Dec-42,12/8/42,2/20/44,12/22/44,"Converted to CLG 5 1960, sunk as target 1999"
+CA,75,Des Moines/Helena,Bethlehem Quincy,1507,"13,600",,9-Sep-40,9-Sep-43,9/9/43,4/28/45,9/3/45,Scrapped 1974
+CL,92,Little Rock,Cramp SB,535,"10,000",,29-Oct-40,6-Mar-43,3/6/43,8/27/44,6/17/45,"Converted to CLG 4 1960, memorial in Buffalo NY 1977"
+CL,93,Galveston,Cramp SB,536,"10,000",,29-Oct-40,20-Feb-44,2/20/44,4/22/45,5/25/46,"Converted to CLG 3 1958, scrapped 1975"
+CL,94,Youngstown,Cramp SB,537,"10,000",,29-Oct-40,4-Sep-44,9/4/44,,,Cancelled 1945
+CL,95,Oakland,Bethlehem San Francisco,5386,"6,000",,9-Sep-40,13-Jul-41,7/13/41,10/23/42,7/17/43,Scrapped 1959
+CL,96,Reno,Bethlehem San Francisco,5387,"6,000",,9-Sep-40,12-Aug-41,8/12/41,12/23/42,12/28/43,Scrapped 1962
+CL,97,Flint,Bethlehem San Francisco,5388,"6,000",,9-Sep-40,23-Oct-42,10/23/42,1/25/44,8/31/44,Scrapped 1966
+CL,98,Tucson,Bethlehem San Francisco,5389,"6,000",,9-Sep-40,23-Dec-42,12/23/42,9/3/44,2/3/45,Scrapped 1971
