@@ -1,4 +1,4 @@
-# US Interwar Shipbuilding Datasets
+# US Interwar Shipbuilding Data
 This repository contains a compiled and validated dataset on all major surface combatants acquired by the U.S. Navy from 1930-1940. 
 
 The first major file is the US Interwar Shipbuilding Data CSV file. 
